@@ -36,6 +36,15 @@ c)Observe que o arquivo zip foi descompactado, dando lugar a uma pasta com o nom
 
 ![x](/pictures/unzip_copy.jpg)  
 
+d)Depois de copiar a pasta, procure no Windows Explorer o disco local C ou unidade local C. Selecione e clicando com o botão direito do mouse, abra o menu de contexto e clique em Colar.
+  
+![x](/pictures/unzip_paste.jpg)  
+  
+
+
+
+
+
 
 
 
