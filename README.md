@@ -46,6 +46,22 @@ e)A figura seguinte mostra o resultado final: a pasta do programa no disco local
   
 ![x](/pictures/unzip_ready.jpg)  
 
+## Usando o Winzip  
+O Winzip é um descompactador clássico de arquivos no formato zip. É um utilitário proprietário que, após a sua instalação, pode ser usado por um período de teste gratuito, geralmente de 21 dias, para avaliação. Após esse período de teste, o utilitário continua funcionando, porém, exibindo mensagens solicitando a compra da licença.
+O usuário pode fazer o download do programa no site oficial (https://www.winzip.com/en/download/winzip/) e depois instalá-lo no seu PC.  
+
+a)Depois da instalação do WinZip, abra o Windows Explorer e procure o arquivo "baixado" deste repositório, conforme instruções da seção "Fazendo o download do arquivo zip" deste instrutivo.  
+b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esquerdo do mouse.  
+
+![x](/pictures/unzip2_select.jpg)  
+
+
+
+
+
+
+
+
 
 
 
