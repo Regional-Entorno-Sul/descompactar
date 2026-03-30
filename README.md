@@ -1,6 +1,3 @@
-# descompactar
-Tutorial para descompactar os arquivos deste repositório.
-
 # Como descompactar os arquivos hospedados neste repositório.
 Todos os utilitários que estão hospedados neste repositório são compactados no formato zip por questão de economia de espaço de armazenamento e também de organização da estrutura de pastas e subpastas que formam o produto final, fazendo-se portanto necessário realizar o processo de descompressão para poder funcionar.  
 Descompactação de arquivos é um processo bastante simples e o próprio sistema operacional Windows oferece recurso nativo para realização deste processo, além disso, existem diversos utilitários disponíveis na Internet que também são utilizados para esta finalidade.  
