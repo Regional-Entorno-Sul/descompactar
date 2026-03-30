@@ -59,6 +59,23 @@ c)Em seguida, clicar no arquivo selecionado com o botão direito do mouse e quan
 
 ![x](/pictures/unzip2_menu.jpg)  
 
+d)Irá surgir a janela "Extrair", escolha o disco local C ou unidade local C e clique no botão "Descompactador";  
+
+![x](/pictures/unzip2_extract.jpg)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
