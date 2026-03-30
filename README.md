@@ -18,6 +18,8 @@ c)Após a escolha da versão, clique no link com o nome do programa seguido da e
 ![x](/pictures/unzip_link.jpg)  
   
 d)Logo após clicar no link o processo de download será iniciado. Por padrão os arquivos "baixados" pelo download são salvos na pasta "Downloads", a menos que o usuário tenha configurado o Windows para salvar os arquivos em outro local;  
+
+
   
 ![x](/pictures/unzip_downloads.jpg)  
   
@@ -40,7 +42,9 @@ d)Depois de copiar a pasta, procure no Windows Explorer o disco local C ou unida
   
 ![x](/pictures/unzip_paste.jpg)  
   
-
+e)A figura seguinte mostra o resultado final: a pasta do programa no disco local C do lado esquerdo e do lado direito as subpastas e arquivos que estão dentro da pasta;  
+  
+![x](/pictures/unzip_ready.jpg)  
 
 
 
