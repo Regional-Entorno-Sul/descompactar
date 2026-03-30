@@ -55,7 +55,7 @@ b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esqu
 
 ![x](/pictures/unzip2_select.jpg)  
 
-
+b)Em seguida, clicar no arquivo selecionado com o botão direito do mouse, 
 
 
 
