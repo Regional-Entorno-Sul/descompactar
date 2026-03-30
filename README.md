@@ -17,9 +17,17 @@ c)Após a escolha da versão, clique no link com o nome do programa seguido da e
   
 ![x](/pictures/unzip_link.jpg)  
   
-d)Logo após clicar no link o processo de download será iniciado. Por padrão os arquivos "baixados" pelo download são salvos na pasta "Downloads", a menos que o usuário configure o Windows para salvar os arquivos em outro local;  
+d)Logo após clicar no link o processo de download será iniciado. Por padrão os arquivos "baixados" pelo download são salvos na pasta "Downloads", a menos que o usuário tenha configurado o Windows para salvar os arquivos em outro local;  
   
 ![x](/pictures/unzip_downloads.jpg)  
   
 ## Usando o Windows 10
-O próprio sistema operacional Windows 10 permite ao usuário executar a descompactação de arquivos zipados usando recurso nativo do próprio sistema operacional, neste caso, o usuário não precisará instalar um utilitário de descompactação para executar a tarefa. Iremos mostrar apenas uma forma de fazer essa descompactação de um arquivo usando o Windows, mas existem diversas outras formas de fazer isso dentro dos prórios recursos que o Windows fornece.
+O próprio sistema operacional Windows 10 permite ao usuário executar a descompactação de arquivos zipados usando recurso nativo do próprio sistema operacional, neste caso, o usuário não precisará instalar um utilitário de descompactação para executar a tarefa. Iremos mostrar apenas uma forma de fazer essa descompactação de um arquivo usando o Windows, mas existem diversas outras formas de fazer isso dentro dos prórios recursos que o Windows fornece.  
+  
+a)Procurar no Windows Explorer a pasta onde o arquivo foi "baixado". Ao encontrá-lo, clique uma vez com o botão esquerdo para selecioná-lo;  
+  
+![x](/pictures/unzip_downloads2.jpg)  
+
+
+
+
