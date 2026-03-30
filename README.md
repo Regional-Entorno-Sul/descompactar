@@ -3,7 +3,7 @@ Todos os utilitários que estão hospedados neste repositório são compactados 
 Descompactação de arquivos é um processo bastante simples e o próprio sistema operacional Windows oferece recurso nativo para realização deste processo, além disso, existem diversos utilitários disponíveis na Internet que também são utilizados para esta finalidade.  
 Mesmo utilizando um processo ou outro há várias maneiras de descompactar um arquivo, nesse tutorial, vamos através de exemplos, mostrar a maneira mais fácil e simples de fazê-lo utilizando os diversos recursos que são disponíveis.  
 ## Fazendo o download do arquivo zip.
-Nas etapas seguintes iremos utilizar o utilitário DengueReport disponível neste repositório (https://github.com/Regional-Entorno-Sul/DengueReport) mas o processo para descompactação de arquivos é o mesmo para os outros utilitários do repositório, pois todos eles estão no formato zip, mudando apenas o nome do produto escolhido pelo usuário.  
+Nas etapas seguintes iremos utilizar o utilitário DengueReport disponível neste repositório (https://github.com/Regional-Entorno-Sul/DengueReport), mas o processo para descompactação de arquivos é o mesmo para os outros utilitários do repositório, pois todos eles estão no formato zip, mudando apenas o nome do produto escolhido pelo usuário.  
 a)Primeiramente o usuário deve achar no repositório a seção Releases e clicar no link destacado em vermelho conforme mostra a figura abaixo;
 ![x](/pictures/unzip_releases.jpg);  
 b)Dentro da seção Releases, escolher sempre a última versão que está disponível, geralmente a mais recente vem com o selo "Latest".   
