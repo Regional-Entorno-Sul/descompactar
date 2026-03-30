@@ -5,13 +5,13 @@ Mesmo utilizando um processo ou outro há várias maneiras de descompactar um ar
 ## Fazendo o download do arquivo zip.
 Nas etapas seguintes iremos utilizar o utilitário DengueReport disponível neste repositório (https://github.com/Regional-Entorno-Sul/DengueReport), mas o processo para descompactação de arquivos é o mesmo para os outros utilitários do repositório, pois todos eles estão no formato zip, mudando apenas o nome do produto escolhido pelo usuário.  
 a)Primeiramente o usuário deve achar no repositório a seção Releases e clicar no link destacado em vermelho conforme mostra a figura abaixo;
-![x](/pictures/unzip_releases.jpg);  
+![x](/pictures/unzip_releases.jpg)  
 b)Dentro da seção Releases, escolher sempre a última versão que está disponível, geralmente a mais recente vem com o selo "Latest".   
-![x](/pictures/unzip_latest.jpg);  
+![x](/pictures/unzip_latest.jpg)  
 c)Após a escolha da versão, clique no link com o nome do programa seguido da extensão zip, conforme mostra a figura seguinte;  
-![x](/pictures/unzip_link.jpg);  
+![x](/pictures/unzip_link.jpg)  
 d)Logo após clicar no link o processo de download será iniciado. Por padrão os arquivos "baixados" pelo download são salvos na pasta "Downloads", a menos que o usuário configure o Windows para salvar os arquivos em outro local;  
-![x](/pictures/downloads.jpg);  
+![x](/pictures/downloads.jpg)  
 
 
 
