@@ -59,7 +59,7 @@ c)Em seguida, clicar no arquivo selecionado com o botão direito do mouse e quan
 
 ![x](/pictures/unzip2_menu.jpg)  
 
-d)Irá surgir a janela "Extrair", escolha o disco local C ou unidade local C e clique no botão "Descompactar". Se a janela não abrir automaticamente, pode ser que esteja minimizada no rodapé do windows. Neste caso, clique no logotipo do WinZip para abrir ;  
+d)Irá surgir a janela "Extrair", escolha o disco local C ou unidade local C e clique no botão "Descompactar". Se a janela não abrir automaticamente, pode ser que esteja minimizada no rodapé do windows. Neste caso, clique no logotipo do WinZip para abrir a janela;  
   
 ![x](/pictures/unzip2_minimize.jpg)  
   
