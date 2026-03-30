@@ -28,6 +28,14 @@ a)Procurar no Windows Explorer a pasta onde o arquivo foi "baixado". Ao encontr√
   
 ![x](/pictures/unzip_downloads2.jpg)  
 
+b)Uma vez que o arquivo esteja selecionado, clique uma vez com o bot√£o direito para abrir o menu de contexto, escolha o item "Abrir com" e depois o item "Windows Explorer";  
+  
+![x](/pictures/unzip_select.jpg)  
+
+
+
+
+
 
 
 
