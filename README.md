@@ -21,5 +21,5 @@ d)Logo após clicar no link o processo de download será iniciado. Por padrão o
   
 ![x](/pictures/unzip_downloads.jpg)  
   
-## Windows
+## Usando o Windows
 O próprio sistema operacional Windows permite ao usuário executar a descompactação de arquivos zipados usando recurso nativo do próprio sistema operacional, neste caso, o usuário não precisará instalar um utilitário de descompactação para executar a tarefa. Iremos mostrar apenas uma forma de fazer essa descompactação de um arquivo usando o Windows, mas existem diversas outras formas de fazer isso dentro dos prórios recursos que o Windows fornece.
