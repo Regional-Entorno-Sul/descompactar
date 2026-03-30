@@ -11,7 +11,7 @@ b)Dentro da seção Releases, escolher sempre a última versão que está dispon
 c)Após a escolha da versão, clique no link com o nome do programa seguido da extensão zip, conforme mostra a figura seguinte;  
 ![x](/pictures/unzip_link.jpg)  
 d)Logo após clicar no link o processo de download será iniciado. Por padrão os arquivos "baixados" pelo download são salvos na pasta "Downloads", a menos que o usuário configure o Windows para salvar os arquivos em outro local;  
-![x](/pictures/downloads.jpg)  
+![x](/pictures/unzip_downloads.jpg)  
 
 
 
