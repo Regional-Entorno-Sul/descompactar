@@ -65,7 +65,9 @@ d)Irá surgir a janela "Extrair", escolha o disco local C ou unidade local C e c
   
 ![x](/pictures/unzip2_extract.jpg)  
 
-e)Pronto
+e)Pronto. O arquivo foi descompactado no disco local C. A figura seguinte mostra o resultado final: a pasta do programa no disco local C do lado esquerdo e do lado direito as subpastas e arquivos que estão dentro da pasta;  
+
+![x](/pictures/unzip_ready.jpg)  
 
 
 
