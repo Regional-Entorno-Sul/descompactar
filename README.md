@@ -32,6 +32,9 @@ b)Uma vez que o arquivo esteja selecionado, clique uma vez com o botão direito 
   
 ![x](/pictures/unzip_select.jpg)  
 
+c)Observe que o arquivo zip foi descompactado, dando lugar a uma pasta com o nome do arquivo. Selecione o arquivo clicando com o botão esquerdo do mouse e depois, clique com o botão direito e copie a pasta;  
+
+![x](/pictures/unzip_copy.jpg)  
 
 
 
