@@ -112,7 +112,7 @@ e) O usuário deverá então, seguindo a ordem mostrada pelas setas, desmarcar (
 
 ![x](/pictures/sevenzip_folder.jpg)  
 
-A janela "Extrair:" deverá ficar então, conforme mostra a figura seguinte.  
+A janela "Extrair:" deverá ficar, então, conforme mostra a figura seguinte. Se estiver assim, clique no botão "OK";  
 
 ![x](/pictures/sevenzip_ok.jpg)  
 
