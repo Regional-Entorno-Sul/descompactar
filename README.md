@@ -100,6 +100,9 @@ b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esqu
 
 ![x](/pictures/unzip2_select.jpg)  
 
+c)Em seguida, clicar no arquivo selecionado com o botão direito do mouse e quando aparecer o menu de contexto, escolha o item "Extrair arquivos..." 
+
+![x](/pictures/winrar_extract.jpg)  
 
 
 
