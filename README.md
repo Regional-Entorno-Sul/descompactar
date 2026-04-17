@@ -95,6 +95,11 @@ e)E pronto. O arquivo foi descompactado no disco local C. A figura seguinte most
 O 7-ZIP é uma das opções mais populares para descompactação de arquivos no Winndows. Esse utilitário é totalmente gratuito (sem limitações de tempo ou recursos para uso), é de código livre (garantindo segurança e transparência ao usuário) e leve (a última versão tem apenas 1.6 Mb de tamanho).  
 Para usar o utilitário, o usuário deve acessar o site oficial que hospeda o programa (https://www.7-zip.org), fazer o download da última versão do instalador disponível para Windows e instalá-lo no seu PC.  
 
+a)Depois da instalação do 7-Zip, abra o Windows Explorer e procure o arquivo que foi "baixado" deste repositório, conforme instruções da seção "Fazendo o download do arquivo zip" deste instrutivo.  
+b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esquerdo do mouse.  
+
+![x](/pictures/sevenzip_fileview.jpg)  
+
 
 
 
