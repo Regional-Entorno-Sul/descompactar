@@ -50,7 +50,7 @@ e)A figura seguinte mostra o resultado final: a pasta do programa no disco local
 O Winzip é um descompactador clássico de arquivos no formato zip. É um utilitário proprietário que, após a sua instalação, pode ser usado por um período de teste gratuito, geralmente de 21 dias, para avaliação. Após esse período de teste, o utilitário continua funcionando, porém, exibindo mensagens solicitando a compra da licença.
 O usuário pode fazer o download do programa no site oficial (https://www.winzip.com/en/download/winzip/) e depois instalá-lo no seu PC.  
 
-a)Depois da instalação do WinZip, abra o Windows Explorer e procure o arquivo "baixado" deste repositório, conforme instruções da seção "Fazendo o download do arquivo zip" deste instrutivo.  
+a)Depois da instalação do WinZip, abra o Windows Explorer e procure o arquivo que foi "baixado" deste repositório, conforme instruções da seção "Fazendo o download do arquivo zip" deste instrutivo.  
 b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esquerdo do mouse.  
 
 ![x](/pictures/unzip2_select.jpg)  
@@ -69,6 +69,12 @@ e)Pronto. O arquivo foi descompactado no disco local C. A figura seguinte mostra
 
 ![x](/pictures/unzip_ready.jpg)  
 
+## Usando o WinRAR  
+
+Utilitário tão popular quanto o Winzip para compactação e descompactação de arquivos, com a diferença que este programa é especializado em arquivos no formato RAR, podendo também ser usado para descompactar arquivos no formato zip, que é o tipo de formato usado nesse repositório. Para usá-lo o usuário deve fazer o download do utilitário na página oficial (https://www.win-rar.com) e depois instalar o programa no seu PC.  
+
+a)Depois da instalação do WinRAR, abra o Windows Explorer e procure o arquivo que foi "baixado" deste repositório, conforme instruções da seção "Fazendo o download do arquivo zip" deste instrutivo.  
+b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esquerdo do mouse.  
 
 
 
