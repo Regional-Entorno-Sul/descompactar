@@ -116,7 +116,7 @@ f)A janela "Extrair:" deverá ficar, então, conforme mostra a figura seguinte. 
 
 ![x](/pictures/sevenzip_ok.jpg)  
 
-g)A figura seguinte mostra como o arquivo foi descompactado no disco local C: a pasta do programa no disco local C do lado esquerdo e do lado direito as subpastas e arquivos que estão dentro da pasta;  
+g)A figura seguinte mostra como o arquivo foi descompactado: a pasta do programa no disco local C do lado esquerdo e do lado direito as subpastas e arquivos que estão dentro da pasta;  
 
 ![x](/pictures/unzip_ready.jpg)  
   
