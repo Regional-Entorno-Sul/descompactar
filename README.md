@@ -86,6 +86,9 @@ d)Surgirá a janela "Caminho e opções da extração", escolha o disco local C 
   
 ![x](/pictures/winrar_path.jpg)  
 
+e)E pronto. O arquivo foi descompactado no disco local C. A figura seguinte mostra o resultado final: a pasta do programa no disco local C do lado esquerdo e do lado direito as subpastas e arquivos que estão dentro da pasta;  
+
+![x](/pictures/unzip_ready.jpg)  
 
 
 
