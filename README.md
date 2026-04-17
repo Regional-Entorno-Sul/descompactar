@@ -108,9 +108,11 @@ d)Surgirá a janela "Extrair:", conforme mostra a janela abaixo;
 
 ![x](/pictures/sevenzip_path.jpg)  
 
-e) O usuário deverá então, seguindo a ordem mostrada pelas setas, desmarcar (se estiver marcado) o checkbox indicado pela seta 1. Em seguida, clicar no botão com os três pontinhos indicado pela seta 2. Ao clicar neste último botão, uma pequena janela com o nome "Procurar pasta" deverá surgir;  
+e) O usuário deverá então, seguindo a ordem mostrada pelas setas, desmarcar (se estiver marcado) o checkbox indicado pela seta 1. Em seguida, clicar no botão com os três pontinhos indicado pela seta 2. Ao clicar neste último botão, uma pequena janela com o nome "Procurar pasta" deverá surgir. Escolha então o disco local C ou unidade local C e clique no botão "OK";  
 
 ![x](/pictures/sevenzip_folder.jpg)  
+
+A janela "Extrair:" deverá ficar então, conforme mostra a figura seguinte.  
 
 ![x](/pictures/sevenzip_ok.jpg)  
 
