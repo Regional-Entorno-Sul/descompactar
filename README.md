@@ -98,7 +98,7 @@ Para usar o utilitário, o usuário deve acessar o site oficial que hospeda o pr
 a)Depois da instalação do 7-Zip, abra o Windows Explorer e procure o arquivo que foi "baixado" deste repositório, conforme instruções da seção "Fazendo o download do arquivo zip" deste instrutivo.  
 b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esquerdo do mouse.  
 
-![x](/pictures/sevenzip_fileview.jpg)  
+![x](/pictures/unzip2_select.jpg)  
 
 
 
