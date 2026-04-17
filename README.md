@@ -82,6 +82,9 @@ c)Em seguida, clicar no arquivo selecionado com o botão direito do mouse e quan
 
 ![x](/pictures/winrar_extract.jpg)  
 
+d)Irá surgir a janela "Caminho e opções da extração", escolha o disco local C ou unidade local C e clique no botão "OK";  
+  
+![x](/pictures/winrar_path.jpg)  
 
 
 
