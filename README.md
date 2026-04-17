@@ -108,14 +108,17 @@ d)Surgirá a janela "Extrair:", conforme mostra a janela abaixo;
 
 ![x](/pictures/sevenzip_path.jpg)  
 
-e) O usuário deverá então, seguindo a ordem mostrada pelas setas, desmarcar (se estiver marcado) o checkbox indicado pela seta 1. Em seguida, clicar no botão com os três pontinhos indicado pela seta 2. Ao clicar neste último botão, uma pequena janela com o nome "Procurar pasta" deverá surgir. Escolha então o disco local C ou unidade local C e clique no botão "OK";  
+e)O usuário deverá então, seguindo a ordem mostrada pelas setas, desmarcar (se estiver marcado) o checkbox indicado pela seta 1. Em seguida, clicar no botão com os três pontinhos indicado pela seta 2. Ao clicar neste último botão, uma pequena janela com o nome "Procurar pasta" deverá surgir. Escolha então o disco local C ou unidade local C e clique no botão "OK";  
 
 ![x](/pictures/sevenzip_folder.jpg)  
 
-A janela "Extrair:" deverá ficar, então, conforme mostra a figura seguinte. Se estiver assim, clique no botão "OK";  
+f)A janela "Extrair:" deverá ficar, então, conforme mostra a figura seguinte. Se estiver assim, clique no botão "OK";  
 
 ![x](/pictures/sevenzip_ok.jpg)  
 
+g)A figura seguinte mostra como o arquivo foi descompactado no disco local C: a pasta do programa no disco local C do lado esquerdo e do lado direito as subpastas e arquivos que estão dentro da pasta;  
+
+![x](/pictures/unzip_ready.jpg)  
   
 
 
