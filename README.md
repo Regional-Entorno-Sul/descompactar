@@ -78,6 +78,11 @@ b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esqu
 
 ![x](/pictures/winrar_fileview.jpg)  
 
+c)Em seguida, clicar no arquivo selecionado com o botão direito do mouse e quando aparecer o menu de contexto, escolha o item "Descompactar para..." 
+
+![x](/pictures/unzip2_menu.jpg)  
+
+
 
 
 
