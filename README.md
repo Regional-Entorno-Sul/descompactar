@@ -102,7 +102,7 @@ b)Em se achando o arquivo, selecione-o, clicando neste uma vez com o botão esqu
 
 c)Em seguida, clicar no arquivo selecionado com o botão direito do mouse e quando aparecer o menu de contexto, escolha a opção "7-Zip" e depois o item "Extrair arquivos..."
 
-![x](/pictures/winrar_extract.jpg)  
+![x](/pictures/sevenzip_explorer.jpg)  
 
 
 
